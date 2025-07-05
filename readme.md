@@ -13,3 +13,7 @@
  -**Git create new branches**
   -`git checkout -b <branchName>`
   
+-** to commit codes**
+-Add changes to track
+-`git add .` ===tracks/keeps record of all the changes
+-`git commit -m "your message"` ==commit
