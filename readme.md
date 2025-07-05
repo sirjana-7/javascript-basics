@@ -17,3 +17,9 @@
 -Add changes to track
 -`git add .` ===tracks/keeps record of all the changes
 -`git commit -m "your message"` ==commit
+
+-** Push commands**
+ -`git push origin <loacalbranch> [:<remote branchName>]`
+ -** Pull command**
+  -first stage/commit your changes
+  -`git pull origin <remoteBranchNAme>`
